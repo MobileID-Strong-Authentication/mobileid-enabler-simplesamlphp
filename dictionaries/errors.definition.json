@@ -1,0 +1,50 @@
+{
+	"error_header": {
+		"en": "Error during the Mobile ID login"
+	},
+	"descr_101": {
+		"en": "The mobile number is invalid"
+	},
+	"descr_105": {
+		"en": "Mobile ID has not been ordered for this subscriber number. Please visit the Mobile ID Portal of your Mobile Network Operator."
+	},
+	"descr_208": {
+		"en": "The transaction has timed out. Please try again."
+	},
+	"descr_209": {
+		"en": "The service could not contact the enduser mobile device (bad connection, screen locked...). Please try again."
+	},
+	"descr_401": {
+		"en": "The request has been canceled by the user."
+	},
+	"descr_402": {
+		"en": "The Mobile ID PIN is blocked. Please visit #URL# to reset your PIN."
+	},
+	"descr_403": {
+		"en": "The Mobile ID is suspended. Please visit #URL# to reactivate your Mobile ID."
+	},
+	"descr_404": {
+		"en": "The subscriber number is not yet activated for Mobile ID. Please visit #URL# to activate your Mobile ID."
+	},
+	"descr_406": {
+		"en": "Error on the enduser mobile device, probably an other signature request is already in progress. Please try again."
+	},
+	"descr_422": {
+		"en": "The Mobile ID is no more active. Please visit #URL# to reactivate your Mobile ID."
+	},
+	"descr_501": {
+		"en": "Verification error with the confirmation. Please try again and if the error persist contact your Mobile Network Operator."
+	},
+	"descr_503": {
+		"en": "Verification error with the confirmation. Please try again and if the error persist contact your Mobile Network Operator."
+	},
+	"descr_MCC": {
+		"en": "Country #MCC# not authorised."
+	},
+	"descr_DEFAULT": {
+		"en": "Mobile ID can not be used at this time. Please try it again later."
+	},
+	"descr_": {
+		"en": "Mobile ID can not be used at this time. Please try it again later."
+	}
+}

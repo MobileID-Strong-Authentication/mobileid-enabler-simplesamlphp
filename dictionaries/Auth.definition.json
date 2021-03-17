@@ -1,0 +1,23 @@
+{
+	"header": {
+		"en": "Login with Mobile ID"
+	},
+	"intro": {
+		"en": "Please enter your mobile number"
+	},
+	"language": {
+		"en": "en"
+	},
+	"message": {
+		"en": "Authentication with Mobile ID? (#TRANSID#)"
+	},
+	"form_btn_send": {
+		"en": "Login"
+	},
+	"form_btn_cancel": {
+		"en": "Cancel"
+	},
+	"msg_wait": {
+		"en": "Please wait for the message to appear on the mobile..."
+	}
+}

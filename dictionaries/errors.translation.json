@@ -1,0 +1,82 @@
+{
+	"error_header": {
+		"de": "Fehler Mobile ID",
+		"fr": "Erreur Mobile ID",
+		"it": "Errore Mobile ID"
+	},
+	"descr_101": {
+		"de": "Die Rufnummer ist nicht gültig",
+		"fr": "Le numéro de mobile n'est pas valide",
+		"it": "Il numero mobile è invalido"
+	},
+	"descr_105": {
+		"de": "Mobile ID ist für diese Rufnummer noch nicht bestellt worden. Besuchen Sie das Mobile ID Portal von Ihrem Mobilfunkanbieter.",
+		"fr": "Mobile ID n'a pas encore été commandée pour ce numéro d'appel. Veuillez visiter le portail Mobile ID de votre opérateur mobile.",
+		"it": "Mobile ID non è stato ancora ordinato per questo numero di telefono. Si prega di visitare il Mobile ID portale del proprio operatore mobile."
+	},
+	"descr_208": {
+		"de": "Die Transaktion ist abgelaufen. Bitte versuchen Sie es erneut.",
+		"fr": "La transaction a expirée. Veuillez réessayer.",
+		"it": "L'operazione è scaduta. Riprovi di nuovo."
+	},
+	"descr_209": {
+		"de": "Der Service konnte das mobile Endgerät nicht kontaktieren (schlechte Verbindung, Bildschirmsperre...). Bitte versuchen Sie es erneut.",
+		"fr": "Le service n'a pas pu contacter le mobile de l'utilisateur (mauvaise connexion, écran verrouillé...). Veuillez réessayer.",
+		"it": "Il servizio non ha potuto contattare apparecchiature mobili del utente finale (connessione scadente, schermo bloccato...). Riprovi di nuovo."
+	},
+	"descr_401": {
+		"de": "Der Vorgang wurde vom Nutzer abgebrochen.",
+		"fr": "La requête a été annulée par l'utilisateur.",
+		"it": "La richiesta é stata cancellata dal utilizzatore."
+	},
+	"descr_402": {
+		"de": "Ihre Mobile ID PIN ist gesperrt. Besuchen Sie #URL# um Ihren PIN zurückzusetzen.",
+		"fr": "Votre PIN Mobile ID est bloqué. Veuillez visiter #URL# pour réinitialiser le code PIN.",
+		"it": "Il vostro PIN Mobile ID é bloccato. Consulti #URL# per ripristinare il PIN."
+	},
+	"descr_403": {
+		"de": "Ihre Mobile ID ist suspendiert. Besuchen Sie #URL# um die Mobile ID zu reaktivieren.",
+		"fr": "Votre Mobile ID est suspendue. Veuillez visiter #URL# pour réactiver Mobile ID.",
+		"it": "Il vostro Mobile ID è sospeso. Consulti #URL# per riattivare Mobile ID."
+	},
+	"descr_404": {
+		"de": "Die Rufnummer ist nicht für Mobile ID aktiviert. Besuchen Sie #URL# um die Mobile ID zu aktivieren.",
+		"fr": "Pour votre numéro d'appel la Mobile ID n'est pas activée. Veuillez visiter #URL# pour activer Mobile ID.",
+		"it": "Il vostro numero di telefonia mobile non é abilitato per Mobile ID. Consulti #URL# per attivare Mobile ID."
+	},
+	"descr_406": {
+		"de": "Fehler auf dem mobilen Endgerät, wahrscheinlich ist eine andere Signatur Anfrage bereits im Gange. Bitte versuchen Sie es erneut.",
+		"fr": "Erreur sur le mobile de l'utilisateur, probablement une autre demande de signature est déjà en cours. Veuillez réessayer.",
+		"it": "Errore causato dall'apparecchio mobile, probabilmente un altra richiesta di firma è già in corso. Riprovi di nuovo."
+	},
+	"descr_422": {
+		"de": "Ihre Mobile ID ist nicht mehr aktiv. Besuchen Sie #URL# um die Mobile ID zu reaktivieren.",
+		"fr": "Votre Mobile ID n'est plus active. Veuillez visiter #URL# pour réactiver Mobile ID.",
+		"it": "Il vostro Mobile ID non è più attivo. Visita #URL# per riattivare Mobile ID."
+	},
+	"descr_501": {
+		"de": "Fehler beim Prüfen der Bestätigung. Bitte versuchen Sie es erneut und wenn der Fehler bestehen bleibt, kontaktieren Sie Ihren Mobilfunkanbieter.",
+		"fr": "Erreur lors de la vérification de la requête. Veuillez réessayer et si l'erreur persiste contactez votre opérateur mobile.",
+		"it": "Errore durante la conferma. Riprovi di nuovo e se l'errore persiste rivolgersi all'operatore di rete mobile."
+	},
+	"descr_503": {
+		"de": "Fehler beim Prüfen der Bestätigung. Bitte versuchen Sie es erneut und wenn der Fehler bestehen bleibt, kontaktieren Sie Ihren Mobilfunkanbieter.",
+		"fr": "Erreur lors de la vérification de la requête. Veuillez réessayer et si l'erreur persiste contactez votre opérateur mobile.",
+		"it": "Errore durante la conferma. Riprovi di nuovo e se l'errore persiste rivolgersi all'operatore di rete mobile."
+	},
+	"descr_MCC": {
+		"de": "Land #MCC# nicht autorisiert.",
+		"fr": "Pays #MCC# non autorisé.",
+		"it": "Paese #MCC# non autorizzata."
+	},
+	"descr_DEFAULT": {
+		"de": "Mobile ID kann zurzeit nicht genutzt werden. Bitte versuchen Sie es später erneut.",
+		"fr": "Mobile ID ne peut actuellement pas être utilisée. Veuillez réessayer ultérieurement.",
+		"it": "Mobile ID attualmente non può essere utilizzato. Riprova più tardi."
+	},
+	"descr_": {
+		"de": "Mobile ID kann zurzeit nicht genutzt werden. Bitte versuchen Sie es später erneut.",
+		"fr": "Mobile ID ne peut actuellement pas être utilisée. Veuillez réessayer ultérieurement.",
+		"it": "Mobile ID attualmente non può essere utilizzato. Riprova più tardi."
+	}
+}

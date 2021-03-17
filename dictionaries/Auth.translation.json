@@ -1,0 +1,37 @@
+{
+	"header": {
+		"de": "Anmelden mit Mobile ID",
+		"fr": "S'authentifier avec Mobile ID",
+		"it": "Accesso con Mobile ID"
+	},
+	"intro": {
+		"de": "Bitte geben Sie Ihre Mobilnummer ein",
+		"fr": "Veuillez saisir votre numéro de mobile",
+		"it": "Volete afferrare il vostro numero di cellulare"
+	},
+	"language": {
+		"de": "de",
+		"fr": "fr",
+		"it": "it"
+	},
+	"message": {
+		"de": "Authentifizierung mit Mobile ID? (#TRANSID#)",
+		"fr": "Authentification avec Mobile ID? (#TRANSID#)",
+		"it": "Autenticazione con Mobile ID? (#TRANSID#)"
+	},
+	"form_btn_send": {
+		"de": "Anmelden",
+		"fr": "S'identifier",
+		"it": "Login"
+	},
+	"form_btn_cancel": {
+		"de": "Beenden",
+		"fr": "Annuler",
+		"it": "Cancellare"
+	},
+	"msg_wait": {
+		"de": "Bitte warten Sie, bis die Nachricht erhalten wird...",
+		"fr": "Veuillez patienter pour avoir le message sur le mobile...",
+		"it": "Attendere per il messaggio appaia sul cellulare..."
+	}
+}
