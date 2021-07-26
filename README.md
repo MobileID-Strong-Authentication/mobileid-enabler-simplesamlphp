@@ -17,7 +17,7 @@ mobileid:auth is a module for login with Mobile ID.
 Checkout the project directly from git under the `simplesamlphp/modules` folder:
 ```
   cd <simplesamlphp>/modules
-  git clone https://github.com/SCS-CBU-CED-IAM/simplesaml-mobileid.git mobileid
+  git clone https://github.com/MobileID-Strong-Authentication/mobileid-enabler-simplesamlphp.git mobileid
 ```
 
 Dependencies:
